@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeInFrames: 0
+  timeAreaShownRange: {x: 0.0000000074350353, y: 25.324179}
+  showAudioWaveform: 1
+  trackHeight: 30
+  trackScale: 1
+  playRangeEnabled: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 5.910049037076533
+  verticalScroll: 0
+  m_Keys:
+  - {fileID: 114098282635135658, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114149826417897640, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114086042402912220, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114177046724352712, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114787178141179356, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114105282415549540, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114252539841370146, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114773037861176864, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114970157928879318, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114386908028856520, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114437992750884778, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114306537784901952, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114407266575398426, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114804632216974952, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  - {fileID: 114137638101245538, guid: 0d4fe4ee850afb448bca209759f750ea, type: 2}
+  m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
